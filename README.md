@@ -1,4 +1,4 @@
-# MandelBrot-Set-Computation-Visualization
+# MandelBrot-Set-Computation-Visualization Through Parallel Computing
 ## What is Mandelbrot Set
 The Mandelbrot set is a set of complex number: 
 the value of such a complex number C makes the quadratic recurrence equation
